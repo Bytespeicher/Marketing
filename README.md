@@ -1,2 +1,2 @@
 # Marketing
-Logos, Grafiken und Druckvorlagen von Freifunk Erfurt
+Logos, Grafiken und Druckvorlagen
