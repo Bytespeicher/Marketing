@@ -29,7 +29,7 @@ Der Flyer hat, wegen dem Zuschnitt, eine Größe von 10x21.2cm.
 Bei einer Auflösung von 300dpi entspricht dies 1181x2503 Pixel.
 
 Der Flyer hält sich an dieses [Farbschema]
-![N|Solid](https://raw.githubusercontent.com/Bytespeicher/Marketing/master/Allgemeiner-Content/Veranstaltungsflyer_2017_Jan-Jun/farbschema.png)
+![N|Solid](https://raw.githubusercontent.com/Bytespeicher/Marketing/master/Bytespeicher/Allgemeiner%20Content/Veranstaltungsflyer_2017_Jan-Jun/farbschema.png)
   - #354242
   - #ACEBAE
   - #FFFF9D
